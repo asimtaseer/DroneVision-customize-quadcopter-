@@ -1,7 +1,7 @@
 🛠️ 1. Hardware Used
 
 
-⭐ Flight Controller & Electronics
+                        ⭐ Flight Controller & Electronics
 
 APM 2.8 Flight Controller
 
@@ -17,7 +17,7 @@ Telemetry Module (433 MHz / 915 MHz)
 
 
 
-⚙️ Motors & Propulsion
+                               ⚙️ Motors & Propulsion
 
 Brushless Motors A2212 (1000KV) × 4
 
@@ -29,7 +29,7 @@ LiPo Battery – 3S 11.1V, 2200–5200mAh
 
 XT60 Battery Connectors
 
-🧩 Frame & Structure
+                            🧩 Frame & Structure
 
 F450 or F550 Frame
 
